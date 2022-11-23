@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"eventos","dependencies":{"@popperjs/core":{"version":"2.11.6"},"bootstrap":{"version":"5.2.2"},"jquery":{"version":"3.6.1"},"lodash":{"version":"4.17.21"},"popper.js":{"version":"1.16.1"}}}
